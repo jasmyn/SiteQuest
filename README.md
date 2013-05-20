@@ -5,6 +5,6 @@ SiteQuest is a fun way to increase website user engagement through gamification.
 
 Points scored per click, points per level, and total levels are easily customizable.
 
-Tested on
+Tested on...
 
 * Firefox 20, 21
