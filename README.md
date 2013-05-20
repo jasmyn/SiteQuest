@@ -11,4 +11,5 @@ See included demo site for setup example.
 
 Tested on...
 
+* Chrome 26
 * Firefox 20, 21
