@@ -7,4 +7,4 @@ Points scored per click, points per level, and total levels are easily customiza
 
 Tested on
 
-	* Firefox 20, 21
+* Firefox 20, 21
