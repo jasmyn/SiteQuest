@@ -22,7 +22,7 @@ body {
 	position: fixed;
 	top: 200px; 
 	right: 0px;
-	background: white;
+	background: #0f0;
 	font-weight: bold;
 	color: black;
 	padding: 10px;
@@ -33,7 +33,7 @@ body {
 	position: fixed;
 	top: 110px;
 	right: 0px;
-	background: white;
+	background: #0f0;
 	font-weight: bold;
 	color: black;
 	padding: 10px;

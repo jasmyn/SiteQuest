@@ -8,7 +8,7 @@
 
 /* Edit the sqConfig variable */
 var sqConfig = {
-	"xpPerLink": 75 // how much XP to award per link followed
+	"xpPerLink": 100 // how much XP to award per link followed
 };
 
 var siteQuest = {
