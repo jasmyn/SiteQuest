@@ -1,0 +1,21 @@
+#site-quest {
+	position: fixed;
+	top: 200px; 
+	right: 0px;
+	background: #0f0;
+	font-weight: bold;
+	color: black;
+	padding: 10px;
+	border-radius: 10px 0px 0px 10px;
+}
+
+#sq-button {
+	position: fixed;
+	top: 110px;
+	right: 0px;
+	background: #0f0;
+	font-weight: bold;
+	color: black;
+	padding: 10px;
+	border-radius: 10px 0px 0px 10px;
+}
