@@ -9,4 +9,4 @@ Points scored per click, points per level, and total levels are easily customiza
 
 Uses jQuery, which must be included first. See demo site for setup example.
 
-Tested in Chrome and FireFox
+Tested in Chrome and FireFox.
