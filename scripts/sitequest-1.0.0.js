@@ -1,5 +1,5 @@
 /**
- * SiteQuest 0.0.3
+ * SiteQuest 1.0.0
  *
  * http://github.com/jasmyn/SiteQuest
  * jasmynbianca@gmail.com
@@ -9,7 +9,7 @@
 /* Edit the sqConfig variable */
 var sqConfig = {
 	'xpPerLink': 100, // how much XP to award per link followed
-	'path2Images': './img/SiteQuest/'
+	'path2Images': './images/SiteQuest/'
 };
 
 var siteQuest = {
@@ -61,7 +61,7 @@ var siteQuest = {
 		$('#sq-img').attr('src', path2Images + 'level-0.png');
 	});
 
-	//set image
+	//set image // TODO refactor
 	if (score >= 100 && score < 200) { 
 		$('#sq-img').attr('src', path2Images + 'level-1.png');
 	}
